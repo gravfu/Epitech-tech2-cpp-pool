@@ -1,0 +1,9 @@
+*.txt
+a.out
+main.cpp
+ex*/a.out
+ex*/main*
+ex*/*.txt
+ex02-2/
+ex03-2/
+ex04-2/
